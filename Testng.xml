@@ -1,0 +1,10 @@
+<suite name="OrangeHRM" parallel="tests">
+<test name="TestNG" allw-return-values="true">
+<classes>
+<class name="testLayer.LOginTest"/>
+
+</classes>
+
+</test>
+
+</suite>
